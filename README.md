@@ -11,7 +11,7 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
 ## Results
 
-1. The size of the circles/data markers reflects the magnitude of the earthquake and the depth of the earthquake is reflected by the colors: Earthquakes with higher magnitudes appear larger and earthquakes with greater depth appear darker in color.
+1. The size of the circles/data markers reflects the magnitude of the earthquake and the depth of the earthquake is reflected by the colors: Earthquakes with higher magnitudes appear larger and earthquakes with greater depth appear darker in color (having a popup helps to understand the data).
 
 
 ![Map](https://github.com/AliceSartori/Leaflet.js/blob/main/Screen%20Shot%202021-03-25%20at%209.27.32%20PM.png)
