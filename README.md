@@ -7,7 +7,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 ## Technologies
 
-The USGS provides earthquake data in a number of different formats, updated every 5 minutes through API. I picked the API with endpoint with data from the past 7 days to pull the data for the visualization (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson), as well as picked the data from anther API endpoint (https://github.com/fraxen/tectonicplates) to illustrate the relationship between tectonic plates and seismic activity.
+The USGS provides earthquake data in a number of different formats, updated every 5 minutes through API. I picked the API with endpoint with data from the past 7 days to pull the data for the visualization (https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson), as well as the data from anther API endpoint (https://github.com/fraxen/tectonicplates) to illustrate the relationship between tectonic plates and seismic activity.
 
 ## Results
 
