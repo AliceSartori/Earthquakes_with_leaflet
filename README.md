@@ -16,7 +16,7 @@ The USGS provides earthquake data in a number of different formats, updated ever
 
 ![Map](https://github.com/AliceSartori/Leaflet.js/blob/main/Screen%20Shot%202021-03-25%20at%209.27.32%20PM.png)
 
-![Map](https://github.com/AliceSartori/Leaflet.js/blob/main/Screen%20Shot%202021-03-26%20at%2010.53.56%20AM.png)
+![Map](https://github.com/AliceSartori/Leaflet.js/blob/main/Screen%20Shot%202021-03-25%20at%209.28.35%20PM.png)
 
 3. There is a strong correlation between tectonic plates movements and seismic activity and it is relatively easy to see the relationships between earthquakes and the plate boundaries on the map. Along divergent boundaries like the mid-Atlantic ridge and the East Pacific Rise, earthquakes are very common and restricted to a narrow zone close to the ridge.
 
